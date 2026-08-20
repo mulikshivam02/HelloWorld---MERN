@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6a737845961959bea68853da"
+  },
+  "name": "Web Development",
+  "description": "Learn MERN Stack Development",
+  "courses": [
+    {
+      "$oid": "6a73789c73a9d616cdd46af9"
+    },
+    {
+      "$oid": "6a78da7641a4f6c3e8f1ff75"
+    },
+    {
+      "$oid": "6a78de9c41a4f6c3e8f1ffd0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a73785d961959bea68853db"
+  },
+  "name": "Cyber Security",
+  "description": "Network and Security Courses"
+},
+{
+  "_id": {
+    "$oid": "6a737863961959bea68853dc"
+  },
+  "name": "Data Science",
+  "description": "Machine Learning and AI"
+}]
